@@ -1,0 +1,18 @@
+## Data Collection and Pre-Processing Lab
+
+This project demonstrates an end-to-end data engineering workflow
+using a realistic e-commerce dataset. The notebook covers ingestion,
+cleaning, transformation, feature engineering, and serialization.
+
+### Quick Start
+python -m venv venv  
+pip install -r requirements.txt  
+jupyter notebook  
+
+### Data Sources
+- ExcelBIAnalytics Sales Dataset
+- Secondary metadata source (product/city lookup)
+
+### Other Projects
+- AI Road Anomaly Detection
+- Predictive Maintenance Dashboard
